@@ -33,4 +33,4 @@ A classic snake game created with Python and the Pygame library.
 ## Controls
 
   * **Arrow Keys:** Control the snake's direction.
-  * **Escape (ESC):** Quit the game.
+
